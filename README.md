@@ -93,3 +93,6 @@ struct ContentView: View {
         }
 }
 ```
+
+## Requirements
+iOS 13+
