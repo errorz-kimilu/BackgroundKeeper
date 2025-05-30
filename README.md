@@ -1,5 +1,5 @@
 # Background Keeper
-
+WARNING: This is not allowed by Apples App Store Guidelines so it might result into your app not being accepted!
 ## What does this Package do?
 This Package allows you to keep your App running in the background by playing a silent mp3 in the background and hiding it from Control Centre and Now Playing
 
